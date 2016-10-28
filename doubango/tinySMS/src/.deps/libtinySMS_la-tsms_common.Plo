@@ -1,0 +1,102 @@
+src/libtinySMS_la-tsms_common.lo: src/tsms_common.c \
+ include/tinysms/tsms_common.h include/tinysms_config.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h \
+ ../config.h include/tinysms/tsms_address.h ../tinySAK/src/tsk_buffer.h \
+ ../tinySAK/src/tinysak_config.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/string.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/malloc.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../tinySAK/src/tsk_common.h ../tinySAK/src/tsk_list.h \
+ ../tinySAK/src/tsk_mutex.h ../tinySAK/src/tsk_object.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdio.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/posix_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/compiler.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/posix_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/kernel.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysmacros.h \
+ include/tinysms/tsms_packing.h ../tinySAK/src/tsk_object.h \
+ ../tinySAK/src/tsk_string.h ../tinySAK/src/tsk_debug.h
+
+include/tinysms/tsms_common.h:
+
+include/tinysms_config.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h:
+
+../config.h:
+
+include/tinysms/tsms_address.h:
+
+../tinySAK/src/tsk_buffer.h:
+
+../tinySAK/src/tinysak_config.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/string.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/malloc.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h:
+
+../tinySAK/src/tsk_common.h:
+
+../tinySAK/src/tsk_list.h:
+
+../tinySAK/src/tsk_mutex.h:
+
+../tinySAK/src/tsk_object.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdio.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/posix_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/compiler.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/posix_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/kernel.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysmacros.h:
+
+include/tinysms/tsms_packing.h:
+
+../tinySAK/src/tsk_object.h:
+
+../tinySAK/src/tsk_string.h:
+
+../tinySAK/src/tsk_debug.h:

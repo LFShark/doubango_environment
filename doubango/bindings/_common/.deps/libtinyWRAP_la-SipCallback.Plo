@@ -1,0 +1,4 @@
+_common/libtinyWRAP_la-SipCallback.lo: _common/SipCallback.cxx \
+ _common/SipCallback.h
+
+_common/SipCallback.h:

@@ -1,0 +1,2 @@
+src/headers/libtinySIP_la-tsip_header_P_DCS_OSPS.lo: \
+ src/headers/tsip_header_P_DCS_OSPS.c

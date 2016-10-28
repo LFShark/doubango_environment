@@ -1,0 +1,2 @@
+src/headers/libtinySIP_la-tsip_header_P_User_Database.lo: \
+ src/headers/tsip_header_P_User_Database.c

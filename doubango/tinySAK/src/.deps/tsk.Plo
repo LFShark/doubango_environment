@@ -1,0 +1,214 @@
+src/tsk.lo: src/tsk.c src/tsk.h src/tinysak_config.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/string.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/malloc.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ src/tsk_common.h ../config.h src/tsk_list.h src/tsk_mutex.h \
+ src/tsk_object.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdio.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/posix_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/compiler.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/posix_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/kernel.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysmacros.h \
+ src/tsk_string.h src/tsk_buffer.h src/tsk_memory.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdlib.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/alloca.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/strings.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/memory.h \
+ src/tsk_url.h src/tsk_params.h src/tsk_plugin.h src/tsk_options.h \
+ src/tsk_fsm.h src/tsk_safeobj.h src/tsk_time.h src/tsk_timer.h \
+ src/tsk_condwait.h src/tsk_semaphore.h src/tsk_thread.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/pthread.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/time.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/time.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/time.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/siginfo.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/siginfo.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/signal.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/syslimits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/internal_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/syslimits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/page.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/signal.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/signal.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/sigcontext.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ucontext.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/user.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sched.h \
+ src/tsk_runnable.h src/tsk_debug.h src/tsk_ppfcs16.h src/tsk_sha1.h \
+ src/tsk_md5.h src/tsk_hmac.h src/tsk_base64.h src/tsk_uuid.h \
+ src/tsk_ragel_state.h
+
+src/tsk.h:
+
+src/tinysak_config.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/string.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/malloc.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h:
+
+src/tsk_common.h:
+
+../config.h:
+
+src/tsk_list.h:
+
+src/tsk_mutex.h:
+
+src/tsk_object.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdio.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/posix_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/compiler.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/posix_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/kernel.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysmacros.h:
+
+src/tsk_string.h:
+
+src/tsk_buffer.h:
+
+src/tsk_memory.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdlib.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/alloca.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/strings.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/memory.h:
+
+src/tsk_url.h:
+
+src/tsk_params.h:
+
+src/tsk_plugin.h:
+
+src/tsk_options.h:
+
+src/tsk_fsm.h:
+
+src/tsk_safeobj.h:
+
+src/tsk_time.h:
+
+src/tsk_timer.h:
+
+src/tsk_condwait.h:
+
+src/tsk_semaphore.h:
+
+src/tsk_thread.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/pthread.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/time.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/time.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/time.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/siginfo.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/signal.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/syslimits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/internal_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/syslimits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/page.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/signal.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/signal.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/sigcontext.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ucontext.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/user.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sched.h:
+
+src/tsk_runnable.h:
+
+src/tsk_debug.h:
+
+src/tsk_ppfcs16.h:
+
+src/tsk_sha1.h:
+
+src/tsk_md5.h:
+
+src/tsk_hmac.h:
+
+src/tsk_base64.h:
+
+src/tsk_uuid.h:
+
+src/tsk_ragel_state.h:

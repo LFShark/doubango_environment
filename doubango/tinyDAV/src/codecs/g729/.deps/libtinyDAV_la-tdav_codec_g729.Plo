@@ -1,0 +1,31 @@
+src/codecs/g729/libtinyDAV_la-tdav_codec_g729.lo: \
+ src/codecs/g729/tdav_codec_g729.c \
+ include/tinydav/codecs/g729/tdav_codec_g729.h include/tinydav_config.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h \
+ ../config.h
+
+include/tinydav/codecs/g729/tdav_codec_g729.h:
+
+include/tinydav_config.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h:
+
+../config.h:

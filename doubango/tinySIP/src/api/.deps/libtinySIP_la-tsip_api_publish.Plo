@@ -1,0 +1,783 @@
+src/api/libtinySIP_la-tsip_api_publish.lo: src/api/tsip_api_publish.c \
+ include/tinysip/api/tsip_api_publish.h include/tinysip_config.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h \
+ ../config.h include/tinysip/tsip_event.h include/tinysip/tsip_ssession.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_common.h \
+ ../tinyMEDIA/include/tinymedia_config.h ../tinySAK/src/tsk_plugin.h \
+ ../tinySAK/src/tinysak_config.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/string.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/malloc.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../tinySAK/src/tsk_common.h ../tinySAK/src/tsk_object.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdio.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/posix_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/stddef.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/compiler.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/posix_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/kernel.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysmacros.h \
+ ../tinySAK/src/tsk_object.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_session.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_codec.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_common.h ../tinySAK/src/tsk_list.h \
+ ../tinySAK/src/tsk_mutex.h ../tinyMEDIA/include/tinymedia/tmedia_qos.h \
+ ../tinySDP/include/tinysdp/tsdp_message.h \
+ ../tinySDP/include/tinysdp_config.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header.h \
+ ../tinySAK/src/tsk_ragel_state.h ../tinySAK/src/tsk_params.h \
+ ../tinySAK/src/tsk_list.h ../tinySAK/src/tsk_buffer.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_M.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_A.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_B.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_C.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_I.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_K.h \
+ ../tinySAK/src/tsk_string.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_params.h ../tinyNET/src/tnet_nat.h \
+ ../tinyNET/src/tinynet_config.h ../tinyNET/src/tnet_socket.h \
+ ../tinyNET/src/tnet_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/socket.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/socket.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/socket.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/sockios.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/sockios.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/uio.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/select.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/time.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/time.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/signal.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/syslimits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/internal_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/limits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/syslimits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/page.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/signal.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/signal.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/sigcontext.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/siginfo.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/siginfo.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ucontext.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/user.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/netinet/in.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/endian.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/endian.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/in.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/byteorder.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/byteorder/little_endian.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/byteorder/swab.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/byteorder/generic.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/in6.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/ipv6.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/netinet/in6.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/arpa/inet.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/netdb.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/fcntl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/fcntl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/fcntl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/fcntl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/unistd.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysconf.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/capability.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/pathconf.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ioctl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/ioctl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/ioctl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/ioctl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/ioctls.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/termbits.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ioctl_compat.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/net/if.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/if.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/hdlc/ioctl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/poll.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/poll.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/poll.h \
+ ../tinySAK/src/tsk_errno.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/errno.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/errno.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/errno.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/errno.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/errno-base.h \
+ ../tinyNET/src/tls/tnet_tls.h ../tinyNET/src/tinynet_config.h \
+ ../tinyNET/src/tnet_types.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/e_os2.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/opensslconf.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/comp.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/crypto.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdlib.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/alloca.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/strings.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/memory.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/stack.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/safestack.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/opensslv.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ossl_typ.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/symhacks.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/bio.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/x509.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/buffer.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/evp.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/objects.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/obj_mac.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/asn1.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/time.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/bn.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ec.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ecdsa.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ecdh.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/rsa.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/dsa.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/dh.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/sha.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/x509_vfy.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/lhash.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pkcs7.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pem.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pem2.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/hmac.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/kssl.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl2.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl3.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/tls1.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/dtls1.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pqueue.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl23.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/srtp.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/err.h \
+ ../tinyNET/src/tls/tnet_dtls.h ../tinyNET/src/stun/tnet_stun_types.h \
+ ../tinySAK/src/tsk_debug.h ../tinySAK/src/tsk_safeobj.h \
+ ../tinySAK/src/tsk_params.h ../tinySAK/src/tsk_options.h \
+ include/tinysip/dialogs/tsip_dialog_layer.h include/tsip.h \
+ include/tinysip_config.h include/tinysip/tsip_ssession.h \
+ include/tinysip/tsip_timers.h ../tinySAK/src/tsk_timer.h \
+ include/tinysip/tsip_event.h include/tinysip/transports/tsip_transport.h \
+ include/tinysip/tsip_message.h include/tinysip/tsip_message_common.h \
+ include/tinysip/headers/tsip_header_Call_ID.h \
+ include/tinysip/headers/tsip_header.h ../tinySAK/src/tsk_memory.h \
+ ../tinySAK/src/tsk_buffer.h ../tinySAK/src/tsk_uuid.h \
+ include/tinysip/headers/tsip_header_Contact.h include/tinysip/tsip_uri.h \
+ include/tinysip/headers/tsip_header_Content_Length.h \
+ include/tinysip/headers/tsip_header_Content_Type.h \
+ include/tinysip/headers/tsip_header_CSeq.h \
+ include/tinysip/headers/tsip_header_Expires.h \
+ include/tinysip/headers/tsip_header_From.h \
+ include/tinysip/headers/tsip_header_P_Access_Network_Info.h \
+ include/tinysip/headers/tsip_header_To.h \
+ include/tinysip/headers/tsip_header_Via.h ../tinyNET/src/tnet_socket.h \
+ ../tinyNET/src/tnet_transport.h ../tinyNET/src/tnet_utils.h \
+ ../tinyNET/src/tnet_nat.h ../tinySAK/src/tsk_runnable.h \
+ ../tinySAK/src/tsk_semaphore.h ../tinySAK/src/tsk_thread.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/pthread.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sched.h \
+ include/tinysip/tsip_uri.h include/tinysip/sigcomp/tsip_sigcomp.h \
+ ../tinyNET/src/tinynet.h ../tinySAK/src/tsk.h \
+ ../tinySAK/src/tsk_string.h ../tinySAK/src/tsk_memory.h \
+ ../tinySAK/src/tsk_url.h ../tinySAK/src/tsk_plugin.h \
+ ../tinySAK/src/tsk_options.h ../tinySAK/src/tsk_fsm.h \
+ ../tinySAK/src/tsk_safeobj.h ../tinySAK/src/tsk_time.h \
+ ../tinySAK/src/tsk_timer.h ../tinySAK/src/tsk_condwait.h \
+ ../tinySAK/src/tsk_runnable.h ../tinySAK/src/tsk_debug.h \
+ ../tinySAK/src/tsk_ppfcs16.h ../tinySAK/src/tsk_sha1.h \
+ ../tinySAK/src/tsk_md5.h ../tinySAK/src/tsk_hmac.h \
+ ../tinySAK/src/tsk_base64.h ../tinySAK/src/tsk_uuid.h \
+ ../tinySAK/src/tsk_ragel_state.h ../tinyNET/src/tnet.h \
+ ../tinySAK/src/tsk_common.h ../tinyNET/src/tnet_endianness.h \
+ ../tinyNET/src/tnet_transport.h ../tinyNET/src/tnet_proxy_plugin.h \
+ ../tinyNET/src/stun/tnet_stun.h ../tinyNET/src/ice/tnet_ice_event.h \
+ ../tinyNET/src/ice/tnet_ice_candidate.h \
+ ../tinyNET/src/stun/tnet_stun_pkt.h ../tinyNET/src/stun/tnet_stun_attr.h \
+ ../tinyNET/src/stun/tnet_stun_types.h \
+ ../tinyNET/src/stun/tnet_stun_utils.h ../tinyNET/src/ice/tnet_ice_ctx.h \
+ ../tinyNET/src/dns/tnet_dns.h ../tinyNET/src/dns/tnet_dns_message.h \
+ ../tinyNET/src/dns/tnet_dns_rr.h ../tinyNET/src/tnet_utils.h \
+ ../tinyNET/src/dns/tnet_dns_naptr.h ../tinyNET/src/dns/tnet_dns_regexp.h \
+ ../tinyNET/src/dns/tnet_dns_resolvconf.h ../tinyNET/src/dhcp/tnet_dhcp.h \
+ ../tinyNET/src/dhcp/tnet_dhcp_message.h \
+ ../tinyNET/src/dhcp/tnet_dhcp_option.h ../tinyNET/src/tnet_hardwares.h \
+ ../tinyNET/src/dhcp/tnet_dhcp_option_sip.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_message.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_option.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_duid.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_option.h \
+ include/tinysip/dialogs/tsip_dialog.h include/tinysip/tsip_timers.h \
+ include/tinysip/authentication/tsip_challenge.h \
+ include/tinysip/authentication/tsip_milenage.h \
+ ../tinyHTTP/include/tinyhttp/auth/thttp_auth.h \
+ ../tinyHTTP/include/tinyhttp_config.h ../tinySAK/src/tsk_md5.h \
+ include/tinysip/tsip_action.h \
+ include/tinysip/headers/tsip_header_Record_Route.h \
+ ../tinySAK/src/tsk_fsm.h ../tinySAK/src/tsk_condwait.h \
+ include/tinysip/dialogs/tsip_dialog_publish.h
+
+include/tinysip/api/tsip_api_publish.h:
+
+include/tinysip_config.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/android/api-level.h:
+
+../config.h:
+
+include/tinysip/tsip_event.h:
+
+include/tinysip/tsip_ssession.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_common.h:
+
+../tinyMEDIA/include/tinymedia_config.h:
+
+../tinySAK/src/tsk_plugin.h:
+
+../tinySAK/src/tinysak_config.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/string.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/malloc.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h:
+
+../tinySAK/src/tsk_common.h:
+
+../tinySAK/src/tsk_object.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdio.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/posix_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/stddef.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/compiler.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/posix_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/kernel.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysmacros.h:
+
+../tinySAK/src/tsk_object.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_session.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_codec.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_common.h:
+
+../tinySAK/src/tsk_list.h:
+
+../tinySAK/src/tsk_mutex.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_qos.h:
+
+../tinySDP/include/tinysdp/tsdp_message.h:
+
+../tinySDP/include/tinysdp_config.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header.h:
+
+../tinySAK/src/tsk_ragel_state.h:
+
+../tinySAK/src/tsk_params.h:
+
+../tinySAK/src/tsk_list.h:
+
+../tinySAK/src/tsk_buffer.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_M.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_A.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_B.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_C.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_I.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_K.h:
+
+../tinySAK/src/tsk_string.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_params.h:
+
+../tinyNET/src/tnet_nat.h:
+
+../tinyNET/src/tinynet_config.h:
+
+../tinyNET/src/tnet_socket.h:
+
+../tinyNET/src/tnet_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/socket.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/socket.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/socket.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/sockios.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/sockios.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/uio.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/select.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/time.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/time.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/signal.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/syslimits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/internal_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/machine/limits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/syslimits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/page.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/signal.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/signal.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/sigcontext.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/siginfo.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ucontext.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/user.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/netinet/in.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/endian.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/endian.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/in.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/byteorder.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/byteorder/little_endian.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/byteorder/swab.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/byteorder/generic.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/in6.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/ipv6.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/netinet/in6.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/arpa/inet.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/netdb.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/fcntl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/fcntl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/fcntl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/fcntl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/unistd.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/sysconf.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/capability.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/pathconf.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ioctl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/ioctl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/ioctl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/ioctl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/ioctls.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/termbits.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sys/ioctl_compat.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/net/if.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/if.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/hdlc/ioctl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/poll.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/poll.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/poll.h:
+
+../tinySAK/src/tsk_errno.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/errno.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/linux/errno.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm/errno.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/errno.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/asm-generic/errno-base.h:
+
+../tinyNET/src/tls/tnet_tls.h:
+
+../tinyNET/src/tinynet_config.h:
+
+../tinyNET/src/tnet_types.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/e_os2.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/opensslconf.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/comp.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/crypto.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/stdlib.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/alloca.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/strings.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/memory.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/stack.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/safestack.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/opensslv.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ossl_typ.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/symhacks.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/bio.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/x509.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/buffer.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/evp.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/objects.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/obj_mac.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/asn1.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/time.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/bn.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ec.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ecdsa.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ecdh.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/rsa.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/dsa.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/dh.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/sha.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/x509_vfy.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/lhash.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pkcs7.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pem.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pem2.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/hmac.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/kssl.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl2.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl3.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/tls1.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/dtls1.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/pqueue.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/ssl23.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/srtp.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/thirdparties/common/include/openssl/err.h:
+
+../tinyNET/src/tls/tnet_dtls.h:
+
+../tinyNET/src/stun/tnet_stun_types.h:
+
+../tinySAK/src/tsk_debug.h:
+
+../tinySAK/src/tsk_safeobj.h:
+
+../tinySAK/src/tsk_params.h:
+
+../tinySAK/src/tsk_options.h:
+
+include/tinysip/dialogs/tsip_dialog_layer.h:
+
+include/tsip.h:
+
+include/tinysip_config.h:
+
+include/tinysip/tsip_ssession.h:
+
+include/tinysip/tsip_timers.h:
+
+../tinySAK/src/tsk_timer.h:
+
+include/tinysip/tsip_event.h:
+
+include/tinysip/transports/tsip_transport.h:
+
+include/tinysip/tsip_message.h:
+
+include/tinysip/tsip_message_common.h:
+
+include/tinysip/headers/tsip_header_Call_ID.h:
+
+include/tinysip/headers/tsip_header.h:
+
+../tinySAK/src/tsk_memory.h:
+
+../tinySAK/src/tsk_buffer.h:
+
+../tinySAK/src/tsk_uuid.h:
+
+include/tinysip/headers/tsip_header_Contact.h:
+
+include/tinysip/tsip_uri.h:
+
+include/tinysip/headers/tsip_header_Content_Length.h:
+
+include/tinysip/headers/tsip_header_Content_Type.h:
+
+include/tinysip/headers/tsip_header_CSeq.h:
+
+include/tinysip/headers/tsip_header_Expires.h:
+
+include/tinysip/headers/tsip_header_From.h:
+
+include/tinysip/headers/tsip_header_P_Access_Network_Info.h:
+
+include/tinysip/headers/tsip_header_To.h:
+
+include/tinysip/headers/tsip_header_Via.h:
+
+../tinyNET/src/tnet_socket.h:
+
+../tinyNET/src/tnet_transport.h:
+
+../tinyNET/src/tnet_utils.h:
+
+../tinyNET/src/tnet_nat.h:
+
+../tinySAK/src/tsk_runnable.h:
+
+../tinySAK/src/tsk_semaphore.h:
+
+../tinySAK/src/tsk_thread.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/pthread.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/sysroot/usr/include/sched.h:
+
+include/tinysip/tsip_uri.h:
+
+include/tinysip/sigcomp/tsip_sigcomp.h:
+
+../tinyNET/src/tinynet.h:
+
+../tinySAK/src/tsk.h:
+
+../tinySAK/src/tsk_string.h:
+
+../tinySAK/src/tsk_memory.h:
+
+../tinySAK/src/tsk_url.h:
+
+../tinySAK/src/tsk_plugin.h:
+
+../tinySAK/src/tsk_options.h:
+
+../tinySAK/src/tsk_fsm.h:
+
+../tinySAK/src/tsk_safeobj.h:
+
+../tinySAK/src/tsk_time.h:
+
+../tinySAK/src/tsk_timer.h:
+
+../tinySAK/src/tsk_condwait.h:
+
+../tinySAK/src/tsk_runnable.h:
+
+../tinySAK/src/tsk_debug.h:
+
+../tinySAK/src/tsk_ppfcs16.h:
+
+../tinySAK/src/tsk_sha1.h:
+
+../tinySAK/src/tsk_md5.h:
+
+../tinySAK/src/tsk_hmac.h:
+
+../tinySAK/src/tsk_base64.h:
+
+../tinySAK/src/tsk_uuid.h:
+
+../tinySAK/src/tsk_ragel_state.h:
+
+../tinyNET/src/tnet.h:
+
+../tinySAK/src/tsk_common.h:
+
+../tinyNET/src/tnet_endianness.h:
+
+../tinyNET/src/tnet_transport.h:
+
+../tinyNET/src/tnet_proxy_plugin.h:
+
+../tinyNET/src/stun/tnet_stun.h:
+
+../tinyNET/src/ice/tnet_ice_event.h:
+
+../tinyNET/src/ice/tnet_ice_candidate.h:
+
+../tinyNET/src/stun/tnet_stun_pkt.h:
+
+../tinyNET/src/stun/tnet_stun_attr.h:
+
+../tinyNET/src/stun/tnet_stun_types.h:
+
+../tinyNET/src/stun/tnet_stun_utils.h:
+
+../tinyNET/src/ice/tnet_ice_ctx.h:
+
+../tinyNET/src/dns/tnet_dns.h:
+
+../tinyNET/src/dns/tnet_dns_message.h:
+
+../tinyNET/src/dns/tnet_dns_rr.h:
+
+../tinyNET/src/tnet_utils.h:
+
+../tinyNET/src/dns/tnet_dns_naptr.h:
+
+../tinyNET/src/dns/tnet_dns_regexp.h:
+
+../tinyNET/src/dns/tnet_dns_resolvconf.h:
+
+../tinyNET/src/dhcp/tnet_dhcp.h:
+
+../tinyNET/src/dhcp/tnet_dhcp_message.h:
+
+../tinyNET/src/dhcp/tnet_dhcp_option.h:
+
+../tinyNET/src/tnet_hardwares.h:
+
+../tinyNET/src/dhcp/tnet_dhcp_option_sip.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_message.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_option.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_duid.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_option.h:
+
+include/tinysip/dialogs/tsip_dialog.h:
+
+include/tinysip/tsip_timers.h:
+
+include/tinysip/authentication/tsip_challenge.h:
+
+include/tinysip/authentication/tsip_milenage.h:
+
+../tinyHTTP/include/tinyhttp/auth/thttp_auth.h:
+
+../tinyHTTP/include/tinyhttp_config.h:
+
+../tinySAK/src/tsk_md5.h:
+
+include/tinysip/tsip_action.h:
+
+include/tinysip/headers/tsip_header_Record_Route.h:
+
+../tinySAK/src/tsk_fsm.h:
+
+../tinySAK/src/tsk_condwait.h:
+
+include/tinysip/dialogs/tsip_dialog_publish.h:

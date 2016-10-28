@@ -1,0 +1,15 @@
+prefix = /home/devshark/SCRATCH/doubango_env/doubango/android-projects/output/gpl/armv5te
+exec_prefix = ${prefix}
+libdir = ${exec_prefix}/lib
+includedir = ${prefix}/include
+
+Name : libdoubango
+Description : Doubango Telecom VoIP framework
+Version : 2.0.1316
+Requires: 
+Requires.private: tinySAK = 2.0.1316 tinyNET = 2.0.1316 tinyDAV = 2.0.1316 tinyHTTP = 2.0.1316 tinyIPSec = 2.0.1316 tinyMEDIA = 2.0.1316 tinyMSRP = 2.0.1316 tinyRTP = 2.0.1316 tinySDP = 2.0.1316 tinyBFCP = 2.0.1316 tinySIGCOMP = 2.0.1316 tinySIP = 2.0.1316 tinySMS = 2.0.1316 tinyXCAP = 2.0.1316
+Conflicts:
+Cflags : -I${includedir} -I${includedir}/tinydav
+Libs : -L${libdir} -ltinySAK
+Libs.private: -lavcodec -lswscale -lavutil  -lx264 -lopenh264 -lvpx -lopus -lopencore-amrnb -lspeex -lspeexdsp -lgsm  -liLBC
+

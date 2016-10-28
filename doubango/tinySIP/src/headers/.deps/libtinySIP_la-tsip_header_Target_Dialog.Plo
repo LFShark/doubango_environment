@@ -1,0 +1,2 @@
+src/headers/libtinySIP_la-tsip_header_Target_Dialog.lo: \
+ src/headers/tsip_header_Target_Dialog.c

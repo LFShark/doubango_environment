@@ -1,0 +1,145 @@
+libplugin_audio_opensles_la-audio_opensles.lo: audio_opensles.cxx \
+ audio_opensles.h audio_opensles_config.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ ../../config.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../tinySAK/src/tsk_plugin.h ../../tinySAK/src/tinysak_config.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/string.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/malloc.h \
+ ../../tinySAK/src/tsk_common.h ../../config.h \
+ ../../tinySAK/src/tsk_object.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/stdio.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ audio_opensles_consumer.h audio_opensles_producer.h \
+ audio_opensles_device.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES_Platform.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES_Android.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES.h \
+ /home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES_AndroidConfiguration.h \
+ audio_opensles_device_impl.h \
+ ../../tinyMEDIA/include/tinymedia/tmedia_consumer.h \
+ ../../tinyMEDIA/include/tinymedia_config.h \
+ ../../tinyMEDIA/include/tinymedia/tmedia_codec.h \
+ ../../tinyMEDIA/include/tinymedia/tmedia_common.h \
+ ../../tinySAK/src/tsk_object.h ../../tinySAK/src/tsk_list.h \
+ ../../tinySAK/src/tsk_mutex.h \
+ ../../tinyMEDIA/include/tinymedia/tmedia_params.h \
+ ../../tinyMEDIA/include/tinymedia/tmedia_common.h \
+ ../../tinyMEDIA/include/tinymedia/tmedia_producer.h \
+ ../../tinySAK/src/tsk_safeobj.h ../../tinySAK/src/tsk_debug.h
+
+audio_opensles.h:
+
+audio_opensles_config.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+../../config.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+/home/devshark/SCRATCH/doubango_env/doubango/my-android-toolchain-android-armv7-a-neon/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h:
+
+../../tinySAK/src/tsk_plugin.h:
+
+../../tinySAK/src/tinysak_config.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/string.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/malloc.h:
+
+../../tinySAK/src/tsk_common.h:
+
+../../config.h:
+
+../../tinySAK/src/tsk_object.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/stdio.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/types.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/asm/types.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/linux/types.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+
+audio_opensles_consumer.h:
+
+audio_opensles_producer.h:
+
+audio_opensles_device.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES_Platform.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES_Android.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES.h:
+
+/home/devshark/SCRATCH/android-ndk-r13-beta2/platforms/android-9/arch-arm/usr/include/SLES/OpenSLES_AndroidConfiguration.h:
+
+audio_opensles_device_impl.h:
+
+../../tinyMEDIA/include/tinymedia/tmedia_consumer.h:
+
+../../tinyMEDIA/include/tinymedia_config.h:
+
+../../tinyMEDIA/include/tinymedia/tmedia_codec.h:
+
+../../tinyMEDIA/include/tinymedia/tmedia_common.h:
+
+../../tinySAK/src/tsk_object.h:
+
+../../tinySAK/src/tsk_list.h:
+
+../../tinySAK/src/tsk_mutex.h:
+
+../../tinyMEDIA/include/tinymedia/tmedia_params.h:
+
+../../tinyMEDIA/include/tinymedia/tmedia_common.h:
+
+../../tinyMEDIA/include/tinymedia/tmedia_producer.h:
+
+../../tinySAK/src/tsk_safeobj.h:
+
+../../tinySAK/src/tsk_debug.h:

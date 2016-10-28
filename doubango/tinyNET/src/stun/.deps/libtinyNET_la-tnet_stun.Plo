@@ -1,0 +1,1 @@
+src/stun/libtinyNET_la-tnet_stun.lo: src/stun/tnet_stun.c

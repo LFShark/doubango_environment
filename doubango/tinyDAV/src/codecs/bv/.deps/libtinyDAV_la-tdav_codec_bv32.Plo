@@ -1,0 +1,2 @@
+src/codecs/bv/libtinyDAV_la-tdav_codec_bv32.lo: \
+ src/codecs/bv/tdav_codec_bv32.c

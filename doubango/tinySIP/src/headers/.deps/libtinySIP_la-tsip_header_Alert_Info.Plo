@@ -1,0 +1,2 @@
+src/headers/libtinySIP_la-tsip_header_Alert_Info.lo: \
+ src/headers/tsip_header_Alert_Info.c

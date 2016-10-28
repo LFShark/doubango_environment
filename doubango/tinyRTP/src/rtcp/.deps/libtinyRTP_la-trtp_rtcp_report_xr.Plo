@@ -1,0 +1,2 @@
+src/rtcp/libtinyRTP_la-trtp_rtcp_report_xr.lo: \
+ src/rtcp/trtp_rtcp_report_xr.c

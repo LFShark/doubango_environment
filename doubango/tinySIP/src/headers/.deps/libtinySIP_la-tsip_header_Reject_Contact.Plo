@@ -1,0 +1,2 @@
+src/headers/libtinySIP_la-tsip_header_Reject_Contact.lo: \
+ src/headers/tsip_header_Reject_Contact.c

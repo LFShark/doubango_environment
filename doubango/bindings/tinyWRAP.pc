@@ -1,0 +1,15 @@
+prefix = /home/devshark/SCRATCH/doubango_env/doubango/android-projects/output/gpl/armv7-a-neon
+exec_prefix = ${prefix}
+libdir = ${exec_prefix}/lib
+includedir = ${prefix}/include
+
+Name : libtinyWRAP
+Description : Doubango Telecom tinyWRAP (Wrapper) library
+Version : 2.0.1316
+Requires: 
+Requires.private: tinySAK = 2.0.1316 tinyNET = 2.0.1316 tinySDP = 2.0.1316 tinyRTP = 2.0.1316 tinyMEDIA = 2.0.1316 tinyMSRP = 2.0.1316 tinyDAV = 2.0.1316
+Conflicts:
+Cflags : -I${includedir}/tinywrap
+Libs : -L${libdir} -ltinyWRAP
+Libs.private: -lavcodec -lswscale -lavutil  -lx264 -lopenh264 -lvpx -lopus -lopencore-amrnb -lspeex -lspeexdsp -lgsm  -liLBC
+
